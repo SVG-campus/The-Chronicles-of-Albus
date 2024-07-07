@@ -1,0 +1,32 @@
+The Chronicles of Albus
+
+
+Book Series, of 4 + 1!
+
+
+
+//Albus
+  A Noble knight.
+  https://www.github.com/SVG-campus/Albus
+
+
+//The Tourney of Champions
+  Albus competes in a grand tournament.
+  https://www.github.com/SVG-campus/The-Tourney-of-Champions
+
+
+//The Cursed Kingdom
+  A kingdom falls under a dark magic curse.
+  https://www.github.com/SVG-campus/The-Cursed-Kingdom
+
+
+//The Lost Legacy
+  Albus seeks a legend.ary artifact/knowledge.
+  https://www.github.com/SVG-campus/The-Lost-Legacy
+
+
+[
+//The Phoenix Knights
+  A new generation of knights rise, led by Albus.
+  https://www.github.com/SVG-campus/The-Pheonix-Knights
+]
